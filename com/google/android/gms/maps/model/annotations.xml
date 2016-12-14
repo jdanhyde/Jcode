@@ -1,0 +1,5 @@
+<root>
+  <item name='com.google.android.gms.maps.model.LatLng latitude'>
+    <annotation name='java.lang.annotation.Deprecated' />
+  </item>
+</root>
